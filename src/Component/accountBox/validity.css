@@ -1,0 +1,29 @@
+
+.fa-times-circle{
+    opacity: 0;
+}
+.fa-check-circle{
+    opacity: 1;
+}
+#show_hide{
+    transform: translateX(260px)  translateY(-45px) !important;
+    cursor: pointer;
+    color: rgb(26 43 68 / 38%);
+}
+.fa-check-circle{
+    opacity: 1;
+
+}
+.fa-times-circle{
+    opacity: 0;
+}
+.green {
+    color: green;
+}
+.submit:hover{
+    background-color: gray;
+}
+.submit:disabled{
+    cursor: not-allowed;
+    
+}
